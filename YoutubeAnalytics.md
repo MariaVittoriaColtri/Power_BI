@@ -130,9 +130,3 @@ Confirm that all visuals respond correctly to the date slicer. <br>
 Review labels, units, and titles for accuracy and coherence. <br>
 Save the file as **YouTube_Analytics_Dashboard_Final.pbix**. <br>
 Optionally, export as PDF via File → Export → PDF. <br> <br><br>
-
-
-
-✔ uniformare colori, spacing e stile ai tuoi altri README
-
-Vuoi che li preparo?
